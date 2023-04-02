@@ -42,9 +42,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- You can see my demo at the following URL: [https://quoted-adion.vercel.app/](https://quoted-adion.vercel.app/)
-- The experience was wonderful. It is really a nice project to do. Thanks to devchallenges.
-- I have improved my problem solving skills and fetching data. I have also improved typescript
+- You can see my demo at the following URL: [https://quote-generator-app-hritik-6918.vercel.app/](https://quote-generator-app-hritik-6918.vercel.app/)
 - I have mastered frontend with NEXTJS, ReactJS, tailwind, html, css and js. I am looking forward to become a full stack dev.
 
 ### Built With
