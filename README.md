@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://quoted-adion.vercel.app/">
+    <a href="">
       Demo
     </a>
     <span> | </span>
-    <a href="https://quoted-adion.vercel.app/">
+    <a href="">
       Solution
     </a>
     <span> | </span>
@@ -70,7 +70,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Adion52330/quoted.git
+$ git clone https://github.com/hritik-6918/quoted.git
 
 # Install dependencies
 $ npm install
@@ -79,17 +79,3 @@ $ npm install
 $ npm start
 ```
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
-## Contact
-
-- Website [adion.vercel.app](https://adion.vercel.app/)
-- GitHub [@adion52330](https://github.com/Adion52330)
-- Fiverr [@aditya52330](https://www.fiverr.com/aditya52330)
-- Instagram [@velocity.coder_aditya](https://www.instagram.com/velocity.coder_aditya/)
